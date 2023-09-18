@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 285C-C9EA
+
+ Directory of C:\Users\Office\Desktop\My Project
+
+09/18/2023  06:24 PM    <DIR>          .
+09/18/2023  06:17 PM    <DIR>          ..
+09/18/2023  06:24 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  140,451,753,984 bytes free
